@@ -5,19 +5,19 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, JavaScript, Java, C, SQL</strong> | Banco de dados: <strong>MongoDB</strong>
+  Linguagens: <strong>Python, JavaScript, Java, C, SQL</strong> | Banco de dados: <strong>MongoDB</strong>
 </p>
 
 <p align="left">
-  ☁️ Cloud: <strong>Azure</strong>
+  Cloud: <strong>Azure</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Visual Studio, IntelliJ</strong>
+  Ferramentas: <strong>VS Code, Visual Studio, IntelliJ</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
