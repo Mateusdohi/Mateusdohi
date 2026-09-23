@@ -1,7 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=false&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Mateus+Dohi;Arquitetura+de+TI+em+pagamentos;Python+%7C+JavaScript+%7C+Java+%7C+C+%7C+SQL" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="left"> 
-  Olá! Meu nome é <strong>Mateus Dohi</strong>. Trabalho com <strong>arquitetura de TI na área de pagamentos</strong>.
+  Trabalho com <strong>arquitetura de TI na área de pagamentos</strong>.
 </p>
 
 <p align="left">
@@ -17,7 +23,7 @@
 </p>
 
 <p align="left">
-  Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Aqui vai uma mensagem para entrar em contato com você: 
 </p>
 
 <p align="left">
