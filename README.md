@@ -13,23 +13,28 @@
 ### Sobre mim
 Trabalho com **arquitetura de TI na área de pagamentos**, estudo *Análise e Desenvolvimento de Sistemas* sempre buscando maior conhecimento sobre a área da tecnologia.
 
-### Stack
+### 🚀 Stack
 
 **Linguagens:**  
-`Python` `JavaScript` `Java` `C` `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Banco de dados:**  
-`MongoDB`
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Cloud:**  
-`Azure`
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Ferramentas:**  
-`VS Code` `Visual Studio` `IntelliJ`
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ---
 
-### 📫 Vamos nos conectar
+###  Vamos nos conectar
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" title="Gmail">
