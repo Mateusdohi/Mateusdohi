@@ -1,36 +1,41 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">Olá, eu sou o Mateus Dohi </h1>
 
-<p align="left">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=false&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Mateus+Dohi;Arquitetura+de+TI+em+pagamentos;Python+%7C+JavaScript+%7C+Java+%7C+C+%7C+SQL" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Arquiteto+de+TI+%7C+Pagamentos;Python+%7C+JavaScript+%7C+Java+%7C+C+%7C+SQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="left"> 
-  Trabalho com <strong>arquitetura de TI na área de pagamentos</strong>.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px">
 </p>
 
-<p align="left">
-  Linguagens: <strong>Python, JavaScript, Java, C, SQL</strong> | Banco de dados: <strong>MongoDB</strong>
-</p>
+---
 
-<p align="left">
-  Cloud: <strong>Azure</strong>
-</p>
+### Sobre mim
+Trabalho com **arquitetura de TI na área de pagamentos**, estudo *Análise e Desenvolvimento de Sistemas* sempre buscando maior conhecimento sobre a área da tecnologia.
 
-<p align="left">
-  Ferramentas: <strong>VS Code, Visual Studio, IntelliJ</strong>
-</p>
+### Stack
 
-<p align="left">
-  Aqui vai uma mensagem para entrar em contato com você: 
-</p>
+**Linguagens:**  
+`Python` `JavaScript` `Java` `C` `SQL`
 
-<p align="left">
+**Banco de dados:**  
+`MongoDB`
+
+**Cloud:**  
+`Azure`
+
+**Ferramentas:**  
+`VS Code` `Visual Studio` `IntelliJ`
+
+---
+
+### 📫 Vamos nos conectar
+
+<p align="center">
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/mateus-dohi-3a3840294/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511968626351" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
