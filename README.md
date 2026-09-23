@@ -13,7 +13,7 @@
 ### Sobre mim
 Trabalho com **arquitetura de TI na área de pagamentos**, estudo *Análise e Desenvolvimento de Sistemas* sempre buscando maior conhecimento sobre a área da tecnologia.
 
-### 🚀 Stack
+###  Stack
 
 **Linguagens:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,9 +29,11 @@ Trabalho com **arquitetura de TI na área de pagamentos**, estudo *Análise e De
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Ferramentas:**  
+**Ferramentas:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
 ###  Vamos nos conectar
